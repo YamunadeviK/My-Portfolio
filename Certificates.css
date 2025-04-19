@@ -1,0 +1,24 @@
+/* Certificates.css */
+#certificates {
+    padding: 50px 20px;
+    background-color: #eef;
+    text-align: left;
+  }
+  
+  #certificates h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  #certificates ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #certificates ul li {
+    font-size: 1.1rem;
+    margin: 10px 0;
+    color: #555;
+  }
+  

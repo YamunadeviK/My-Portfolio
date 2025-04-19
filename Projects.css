@@ -1,0 +1,27 @@
+/* Projects.css */
+#projects {
+    padding: 50px 20px;
+    background-color: #eef;
+    text-align: left;
+  }
+  
+  #projects h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .project {
+    margin-bottom: 30px;
+  }
+  
+  .project h3 {
+    font-size: 1.5rem;
+    color: #444;
+  }
+  
+  .project p {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  

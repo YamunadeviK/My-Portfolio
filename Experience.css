@@ -1,0 +1,27 @@
+/* Experience.css */
+#experience {
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+    text-align: left;
+  }
+  
+  #experience h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .experience {
+    margin-bottom: 30px;
+  }
+  
+  .experience h3 {
+    font-size: 1.5rem;
+    color: #444;
+  }
+  
+  .experience p {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
